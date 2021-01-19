@@ -51,6 +51,7 @@ nav a{
     color:#d4f3fd  ;
     padding: .8rem;
     justify-content: right;
+    text-rendering:optimizeLegibility;
 } 
  .active{
 color:#b5fcb5 ;
