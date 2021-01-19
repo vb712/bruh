@@ -85,15 +85,9 @@ nav a:hover{
     width: max-content;
     display: block;
     margin:  -75px auto;
-    text-rendering:optimizeLegibility;
-    font-weight: 400;
     font-size: 1.2rem;
     color: aliceblue;
     font-family: 'Roboto', sans-serif;
-    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
-    background-blend-mode: multiply,multiply;
-   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 /* <------------------------------> */
 /* <----------Media query for width 550px--------> */
