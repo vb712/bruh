@@ -86,7 +86,11 @@ nav a:hover{
     position: absolute;
     bottom: 59%;
     right: 50%;
+    text-rendering:optimizeLegibility;
     transform:translate(+50%);
+     text-rendering:optimizeLegibility;
+    font-weight: 400;
+    -webkit-transform: translate(+50%);
     font-size: 1.1rem;
     font-family: 'Roboto', sans-serif;
     background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
