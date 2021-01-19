@@ -87,7 +87,6 @@ nav a:hover{
     transform:translate(+50%);
     font-size: 1.1rem;
     font-family: 'Roboto', sans-serif;
-    background-blend-mode: multiply,multiply;
     background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
