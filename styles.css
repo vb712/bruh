@@ -29,6 +29,8 @@ header{
     font-family: 'Lobster';
     color: aliceblue;
     margin: .9rem 3rem;
+    text-rendering:optimizeLegibility;
+    font-weight: 400;
     background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
